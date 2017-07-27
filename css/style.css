@@ -1,0 +1,162 @@
+
+/* non-specific shit */
+
+#container{
+	display: flex;
+  	display: -webkit-flex;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    justify-content: center;
+    -webkit-justify-content: center;
+}
+
+.hero-card{
+	height: 212px;
+	width: 270px;
+	background: #AAA;
+	margin: 2em 2em 2em 2em;
+	background-size: contain;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+.hero-card:hover{
+	cursor: pointer;
+}
+
+#hero-lore{
+	position: fixed;
+	height: 80%;
+	width: 60%;
+	background: #AAA;
+	left: 20%;
+	top: 1em;
+	display: none;
+	visibility: hidden;
+	padding: 1em 1em 1em 1em;
+}
+
+#hero-lore.open{
+	display: block;
+	visibility: visible;
+}
+
+#hero-lore #profile-pic{
+	height: 212px;
+	width: 270px;
+	margin: 0 auto;
+	background: #555;
+	background-size: contain;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+#hero-lore #bio{
+	width: 50%;
+	margin: 4em auto;
+}
+
+/* specific shit */
+
+.sevarog{
+	background-image: url('../img/sevarog.png') !important;
+}
+.serath{
+	background-image: url('../img/serath.png') !important;
+}
+.crunch{
+	background-image: url('../img/crunch.png') !important;
+}
+.wukong{
+	background-image: url('../img/wukong.png') !important;
+}
+.feng-mao{
+	background-image: url('../img/feng-mao.png') !important;
+}
+.grim{
+	background-image: url('../img/grim.png') !important;
+}
+.the-fey{
+	background-image: url('../img/the-fey.png') !important;
+}
+.morigesh{
+	background-image: url('../img/morigesh.png') !important;
+}
+.countess{
+	background-image: url('../img/countess.png') !important;
+}
+.sparrow{
+	background-image: url('../img/sparrow.png') !important;
+}
+.greystone{
+	background-image: url('../img/greystone.png') !important;
+}
+.khaimera{
+	background-image: url('../img/khaimera.png') !important;
+}
+.yin{
+	background-image: url('../img/yin.png') !important;
+}
+.aurora{
+	background-image: url('../img/aurora.png') !important;
+}
+.narbash{
+	background-image: url('../img/narbash.png') !important;
+}
+.iggy-and-scorch{
+	background-image: url('../img/iggy-and-scorch.png') !important;
+}
+.grux{
+	background-image: url('../img/grux.png') !important;
+}
+.kwang{
+	background-image: url('../img/kwang.png') !important;
+}
+.howitzer{
+	background-image: url('../img/howitzer.png') !important;
+}
+.gadget{
+	background-image: url('../img/gadget.png') !important;
+}
+.twinblast{
+	background-image: url('../img/twinblast.png') !important;
+}
+.belica{
+	background-image: url('../img/belica.png') !important;
+}
+.rampage{
+	background-image: url('../img/rampage.png') !important;
+}
+.kallari{
+	background-image: url('../img/kallari.png') !important;
+}
+.wraith{
+	background-image: url('../img/wraith.png') !important;
+}
+.shinbi{
+	background-image: url('../img/shinbi.png') !important;
+}
+.phase{
+	background-image: url('../img/phase.png') !important;
+}
+.dekker{
+	background-image: url('../img/dekker.png') !important;
+}
+.revenant{
+	background-image: url('../img/revenant.png') !important;
+}
+.murdock{
+	background-image: url('../img/murdock.png') !important;
+}
+.riktor{
+	background-image: url('../img/riktor.png') !important;
+}
+.muriel{
+	background-image: url('../img/muriel.png') !important;
+}
+.steel{
+	background-image: url('../img/steel.png') !important;
+}
+.gideon{
+	background-image: url('../img/gideon.png') !important;
+}
