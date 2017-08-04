@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 	$('.hero-card').click(function(e){
 		var hero = $(this).attr('class').split(/\s+/)[1];
-		var cardID = alert($(this).attr('id'));
+		var cardID = $(this).attr('id');
 		$('#hero-lore').addClass('open');
 		$('#profile-pic').addClass(hero);
 	});
