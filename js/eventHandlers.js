@@ -1,13 +1,14 @@
 $(document).ready(function(){
-	var heroList = $.getJSON('js/heroes.json', function(json){
-		console.log(json);
-	});
 
 	$('.hero-card').click(function(e){
 		var hero = $(this).attr('class').split(/\s+/)[1];
 		var cardID = $(this).attr('id');
 		$('#hero-lore').addClass('open');
 		$('#profile-pic').addClass(hero);
+
+		var heroList = $.getJSON('js/heroes.json', function(json){
+			console.log(json);
+		});
 	});
 
 	$('#hero-lore').click(function(){
