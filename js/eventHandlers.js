@@ -6,7 +6,7 @@ $(document).ready(function(){
 		$('#hero-lore').addClass('open');
 		$('#profile-pic').addClass(hero);
 
-		var heroList = $.getJSON('https://couch3ater.github.io/paragonLoreGrid/js/heroes.js', function(json){
+		$.getJSON('https://couch3ater.github.io/paragonLoreGrid/js/heroes.js', function(json){
 			console.log(json);
 		});
 	});
