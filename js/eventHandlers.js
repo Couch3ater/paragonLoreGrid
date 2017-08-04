@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var heroList = $.getJSON('heroes.json', function(json){
+	var heroList = $.getJSON('js/heroes.json', function(json){
 		console.log(json);
 	});
 
