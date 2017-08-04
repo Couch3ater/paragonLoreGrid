@@ -1,8 +1,10 @@
 {
-  "heroes":[
-    {
-      "hero": "sevarog",
-      "bio": "sevarog is an edgy grim reaper.",
-    },
-  ]
+	"heroes":{
+		"hero":[
+			{
+				"name":"sevarog",
+				"bio":"sevarog is the edgy grim reaper"
+			},
+		]
+	}
 }

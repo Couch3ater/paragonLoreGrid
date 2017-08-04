@@ -6,10 +6,9 @@ $(document).ready(function(){
 		$('#hero-lore').addClass('open');
 		$('#profile-pic').addClass(hero);
 
-		$.getJSON('https://couch3ater.github.io/paragonLoreGrid/js/heroes.js')
-			.done(function( data ) {
-	   			console.log(data)
-			});
+		$.getJSON('https://couch3ater.github.io/paragonLoreGrid/js/heroes.js?jsoncallback=?', function(json){
+			console.log(json.heroes.hero);
+		});
 	});
 
 	$('#hero-lore').click(function(){
