@@ -8,11 +8,14 @@ $(document).ready(function(){
 		
 		$.getJSON("https://couch3ater.github.io/paragonLoreGrid/js/heroes.json")
 	    	.done(function( data ) {
+	    		/*
 	    		for(homie in data.heroes.hero){
 	    			if(heroClicked == data.heroes.hero[homie].name){
 	    				alert("you selected: " + data.heroes.hero[homie].name);
 	    			}
 	    		}
+	    		*/
+	    		console.log(data.heroes.hero.length);
 			});
 		});
 
