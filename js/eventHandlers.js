@@ -1,15 +1,19 @@
 $(document).ready(function(){
 
 	$('.hero-card').click(function(e){
-		var hero = $(this).attr('class').split(/\s+/)[1];
+		var heroClicked = $(this).attr('class').split(/\s+/)[1];
 		var cardID = $(this).attr('id');
 		$('#hero-lore').addClass('open');
-		$('#profile-pic').addClass(hero);
+		$('#profile-pic').addClass(heroClicked);
 		
-		$.getJSON("https://couch3ater.github.io/paragonLoreGrid/js/heroes.js")
-		    .done(function( data ) {
-		       alert(data);
-		    });
+		$.getJSON("https://couch3ater.github.io/paragonLoreGrid/js/heroes.json")
+	    	.done(function( data ) {
+	    		for(homie in data.heroes.hero){
+	    			if(heroClicked == data.heroes.hero[homie].name){
+	    				alert("you selected: " + data.heroes.hero[homie].name);
+	    			}
+	    		}
+			});
 		});
 
 	$('#hero-lore').click(function(){
