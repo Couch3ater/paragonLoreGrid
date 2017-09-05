@@ -4,6 +4,7 @@ $(document).ready(function(){
 		var heroClicked = $(this).attr('class').split(/\s+/)[1];
 		var cardID = $(this).attr('id');
 		var heroBio = null;
+		$('#hero-lore-background').addClass('open');
 		$('#hero-lore').addClass('open');
 		$('#profile-pic').addClass(heroClicked);
 		
@@ -21,6 +22,14 @@ $(document).ready(function(){
 
 	$('#hero-lore').click(function(){
 		this.className = '';
+		$('#hero-lore-background').removeClass('open');
+		$('#profile-pic').removeClass();
+		$('#bio').html();
+	});
+
+	$('#hero-lore-background').click(function(){
+		this.className = '';
+		$('#hero-lore').removeClass('open');
 		$('#profile-pic').removeClass();
 		$('#bio').html();
 	});
