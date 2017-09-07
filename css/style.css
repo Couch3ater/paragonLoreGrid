@@ -72,8 +72,6 @@
 	-moz-box-shadow: 4px 6px 25px 3px rgba(0,0,0,0.75);
 	box-shadow: 4px 6px 25px 3px rgba(0,0,0,0.75);
 	border-radius: 5px;
-	overflow: auto;
-	-webkit-overflow-scrolling: touch;
 }
 
 #hero-lore.open{
@@ -107,6 +105,8 @@
 	text-transform: uppercase;
 	color: rgba(219,189,104,1.0);
 	text-align: center;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
 }
 
 #hero-lore #bio h2{
