@@ -3,139 +3,343 @@
 		"hero":[
 			{
 				"name":"sevarog",
-				"bio":"sevarog is the edgy grim reaper"
+				"bio":[
+					{
+						"line01":"Waits in the darkness with timeless patience.",
+						"line02":"Does not sleep.",
+						"line03":"Looks forward to the signs that herald his end."
+					}
+				]
 			},
 			{
 				"name":"serath",
-				"bio":"&bull; The Vigilant expected the right of atonement to kill her. So did she.&013;"
+				"bio":[
+					{
+						"line01":"The Vigilant expected the right of atonement to kill her. So did she.",
+						"line02":"Can only remember her childhood when she surrenders to Heresy.",
+						"line03":"Fears that she will commit crimes for which there is no redemption."
+					}
+				]
 			},
 			{
 				"name":"crunch",
-				"bio":"punch em' robot"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"wukong",
-				"bio":"token monkey"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"feng-mao",
-				"bio":"old man pole arm"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"grim",
-				"bio":"robot boom boom"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"the-fey",
-				"bio":"flowers are cool"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"morigesh",
-				"bio":"voodoo assassin"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"countess",
-				"bio":"edgy vampire"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"sparrow",
-				"bio":"look at my bow"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"greystone",
-				"bio":"i never die"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"khaimera",
-				"bio":"angry chihuahua"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"yin",
-				"bio":"i whip my hair back and forth"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"aurora",
-				"bio":"ice queen"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"narbash",
-				"bio":"bang the drum titties"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"iggy-and-scorch",
-				"bio":"fire troll"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"grux",
-				"bio":"jungle titties"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"kwang",
-				"bio":"big sword"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"howitzer",
-				"bio":"rocket the raccoon"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"gadget",
-				"bio":"pokey mines"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"twinblast",
-				"bio":"pew pew guns"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"belica",
-				"bio":"shut up murdock"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"rampage",
-				"bio":"angry pufferfish"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"kallari",
-				"bio":"edgy assassin"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"wraith",
-				"bio":"deadpool"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"shinbi",
-				"bio":"k-pop shenanigans"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"phase",
-				"bio":"now you see me now you don't"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"dekker",
-				"bio":"wombo combo"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"revenant",
-				"bio":"howdy partner"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"murdock",
-				"bio":"space cop"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"riktor",
-				"bio":"git-over-here"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"muriel",
-				"bio":"shields for days"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"steel",
-				"bio":"kamikazeeeeeee"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			},
 			{
 				"name":"gideon",
-				"bio":"space mage"
+				"bio":[
+					{
+						"line01":"Lore 01",
+						"line02":"Lore 02",
+						"line03":"Lore 03"
+					}
+				]
 			}
 		]
 	}

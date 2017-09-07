@@ -3,7 +3,7 @@ $(document).ready(function(){
 	$('.hero-card').click(function(e){
 		var heroClicked = $(this).attr('class').split(/\s+/)[1];
 		var cardID = $(this).attr('id');
-		var heroBio = null;
+		var heroBio = [];
 		$('#hero-lore-background').addClass('open');
 		$('#hero-lore').addClass('open');
 		$('#profile-pic').addClass(heroClicked);
@@ -13,7 +13,12 @@ $(document).ready(function(){
 	    		for(homie in data.heroes.hero){
 	    			if(heroClicked == data.heroes.hero[homie].name){
 	    				heroBio = data.heroes.hero[homie].bio;
-	    				$('#bio').html(heroBio);
+	    				heroBio[0] = data.heroes.hero[homie].bio[0];
+	    				heroBio[1] = data.heroes.hero[homie].bio[1];
+	    				heroBio[2] = data.heroes.hero[homie].bio[2];
+	    				$('#bio').html(
+	    						"<ul><li>" + heroBio[0] + "</li><li>" + heroBio[1] + "</li><li>" + heroBio[2] + "</li></ul>"
+	    					);
 	    				break;
 	    			}
 	    		}
