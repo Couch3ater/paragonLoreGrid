@@ -3,7 +3,7 @@
 
 #header{
 	width: 100vw;
-	background: #333;
+	background: #555;
 	margin-bottom: 50px;
 	padding: 1em 5em 1em 5em;
 	text-align: right;
@@ -101,6 +101,9 @@
 #hero-lore #bio{
 	width: 50%;
 	margin: 4em auto;
+	font-family: 'Assistant', sans-serif;
+	text-transform: uppercase;
+	color: rgba(219,189,104,1.0);
 }
 
 .close {
