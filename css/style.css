@@ -20,17 +20,17 @@
     background: url('../img/background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
-    box-shadow: inset 0 0 0 1000px rgba(200,200,200,0.5);
-    -webkit-box-shadow: inset 0 0 0 1000px rgba(200,200,200,0.5);
-	-moz-box-shadow: inset 0 0 0 1000px rgba(200,200,200,0.5);
+    background-position: center top;
+    box-shadow: inset 0 0 0 1000px rgba(200,200,200,0.85);
+    -webkit-box-shadow: inset 0 0 0 1000px rgba(200,200,200,0.85);
+	-moz-box-shadow: inset 0 0 0 1000px rgba(200,200,200,0.85);
 }
 
 .hero-card{
 	height: 212px;
 	width: 270px;
 	margin: 2em 2em 2em 2em;
-	background-size: contain;
+	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-box-shadow: 5px 10px 33px 6px rgba(0,0,0,1);
