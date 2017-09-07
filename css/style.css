@@ -104,7 +104,8 @@
 	margin: 2em auto;
 	text-transform: uppercase;
 	color: rgba(219,189,104,1.0);
-	overflow: auto;
+	text-align: center;
+	overflow: scroll;
 }
 
 #hero-lore #bio h2{
