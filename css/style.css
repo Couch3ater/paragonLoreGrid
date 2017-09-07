@@ -55,7 +55,7 @@
 
 #hero-lore{
 	position: fixed;
-	/*background: #222;*/
+	font-family: 'Assistant', sans-serif;
 	background: rgb(0,0,0); /* Old browsers */
 	background: -moz-linear-gradient(top, rgba(25,25,25,1) 63%, rgba(40,40,40,1) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top, rgba(25,25,25,1) 63%,rgba(40,40,40,1) 100%); /* Chrome10-25,Safari5.1-6 */
@@ -99,11 +99,31 @@
 }
 
 #hero-lore #bio{
-	width: 50%;
-	margin: 4em auto;
-	font-family: 'Assistant', sans-serif;
+	width: 270px;
+	max-width: 100%;
+	margin: 2em auto;
 	text-transform: uppercase;
 	color: rgba(219,189,104,1.0);
+	overflow: auto;
+}
+
+#hero-lore #bio h2{
+	font-family: 'Assistant', sans-serif;
+	color: #FFF;
+	margin: 0 0 0.5em 0;
+}
+
+#hero-lore #bio #bio-body{
+	text-align: center;
+}
+
+#hero-lore #bio ul{
+	padding: 0;
+}
+
+#hero-lore #bio ul li{
+	margin: 0 0 1.25em 0;
+	list-style: none;
 }
 
 .close {

@@ -25,9 +25,9 @@
 				"name":"crunch",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Shots to his harddrive have corrupted most memories. Not sure which ones are real.",
+						"line02":"Feigns inactivity when being graffitied. Likes the attention.",
+						"line03":"Once KO'd a Gorzop, a Demonox, and a Giga-Tanker with a single uppercut."
 					}
 				]
 			},
@@ -35,9 +35,9 @@
 				"name":"wukong",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"So unpredictable, even he does not know what he'll do next.",
+						"line02":"No one can stay mad at him. Because he kills anyone who is mad at him.",
+						"line03":"Delights annoying Feng Mao to the point of distraction."
 					}
 				]
 			},
@@ -45,9 +45,9 @@
 				"name":"feng-mao",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Once ransacked an entire village searching for his pipe.",
+						"line02":"Has never worshipped the Jambakka, despite the pleas of his parents.",
+						"line03":"Denies the rumor that he \"lost\" three apprentices in a single day."
 					}
 				]
 			},
@@ -55,9 +55,9 @@
 				"name":"grim",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Grim won EXE in a crooked game of Bone Dice. Instructions were not included.",
+						"line02":"EXE is able to extrapolate 73.2% of Grim's speech.",
+						"line03":"Since he acquired EXE, all of Grim's debts have been forgiven."
 					}
 				]
 			},
@@ -65,9 +65,9 @@
 				"name":"the-fey",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Believes that the purpose of all living things is to die, and feed the land.",
+						"line02":"More curious than the other Fey, thus she was chosen.",
+						"line03":"Loves all her \"children\"."
 					}
 				]
 			},
@@ -75,9 +75,9 @@
 				"name":"morigesh",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Awakens each dawn with her body frozen, and the cries of the dead on her tongue.",
+						"line02":"Only kills that which can speak.",
+						"line03":"Narbash once gave her a pet frog; she asked no questions."
 					}
 				]
 			},
@@ -85,9 +85,9 @@
 				"name":"countess",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Remembers every meal she has ever had; taste, smell, and texture.",
+						"line02":"None have ever traveled to her lands, yet none doubt her claim to nobility.",
+						"line03":"Seeks that which is greater than herself, and believes she has found it."
 					}
 				]
 			},
@@ -95,9 +95,9 @@
 				"name":"sparrow",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"As a child, practiced the bow until her fingers bled, then practiced some more.",
+						"line02":"Has been imprisoned many times.",
+						"line03":"Loves the hunt more than the kill."
 					}
 				]
 			},
@@ -105,9 +105,9 @@
 				"name":"greystone",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Ran from every fight, until he lost it all, and stood up.",
+						"line02":"Has imprisoned Sparrow many times.",
+						"line03":"Keeps a lock of black hair in his boot, but no one knows why."
 					}
 				]
 			},
@@ -115,9 +115,9 @@
 				"name":"khaimera",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Dwelled in the jungle, alone, since the age of thirteen.",
+						"line02":"Has been worshiped as a vengeful nature god.",
+						"line03":"Does not speak. Unless he must."
 					}
 				]
 			},
@@ -125,9 +125,9 @@
 				"name":"yin",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Walks the palace walls before dawn, imagining the city in ruins.",
+						"line02":"The youngest warrior since Feng Mao to become First Guardian.",
+						"line03":"The documents affirming her bloodline are exceptional forgeries."
 					}
 				]
 			},
@@ -135,9 +135,9 @@
 				"name":"aurora",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Her right arm doesn't belong to her.",
+						"line02":"Insists that each visitor drink tea, exchange gossip and then fight her.",
+						"line03":"Once capsized the High Sorcerer's pleasure barge to see if he could swim."
 					}
 				]
 			},
@@ -145,9 +145,9 @@
 				"name":"narbash",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Once turned an actual battle into a dance battle through inspired drumming.",
+						"line02":"Ancient sculptures have been found that look just like him.",
+						"line03":"At least 600 people believe they are his best friend. They may all be correct."
 					}
 				]
 			},
@@ -155,9 +155,9 @@
 				"name":"iggy-and-scorch",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Both were cast-out as runts. Suits them just fine.",
+						"line02":"Scorch once ate all the molotovs, passed out, and burned down an orphanage.",
+						"line03":"Iggy thinks he's a dinosaur. Scorch disagrees."
 					}
 				]
 			},
@@ -165,9 +165,9 @@
 				"name":"grux",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Has crushed the skull of every challenger in his tribe.",
+						"line02":"Still cannot defeat his grandmother in single combat.",
+						"line03":"Seeks the forgiveness of his gods."
 					}
 				]
 			},
@@ -175,9 +175,9 @@
 				"name":"kwang",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Never utters the name of his sword in the hearing of others.",
+						"line02":"Believes in tradition and honoring one's parents.",
+						"line03":"Completely trusting, and often penniless."
 					}
 				]
 			},
@@ -185,9 +185,9 @@
 				"name":"howitzer",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Published an article on grenades: theory, practice, and aesthetics.",
+						"line02":"Charged with destruction, mayhem, and defacing public property.",
+						"line03":"Installed a humidor in his mech."
 					}
 				]
 			},
@@ -195,9 +195,9 @@
 				"name":"gadget",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Has a not-so-secret gambling addiction.",
+						"line02":"Enjoys the company of machines more than people. Undecided about androids.",
+						"line03":"Joined the Mechanica at fifteen. Left it at sixteen."
 					}
 				]
 			},
@@ -205,9 +205,9 @@
 				"name":"twinblast",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Denies any affiliation with the Ying Mei Cartel, but drinks on their tab.",
+						"line02":"Has talked his way out of at least five executions.",
+						"line03":"Is pretty sure that he's a father."
 					}
 				]
 			},
@@ -215,9 +215,9 @@
 				"name":"belica",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Shot eleven times. Keeps five rounds in her desk, the other six in her bones.",
+						"line02":"Has a bounty on her head from the Ying Mei Cartel.",
+						"line03":"Personal life is a flaming mess."
 					}
 				]
 			},
@@ -225,9 +225,9 @@
 				"name":"rampage",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Prefers a raw diet.",
+						"line02":"Enjoys camping in the wilderness.",
+						"line03":"A gifted storyteller."
 					}
 				]
 			},
@@ -235,9 +235,9 @@
 				"name":"kallari",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Some believe she kills for pleasure.",
+						"line02":"Some believe she kills because she must.",
+						"line03":"Some believe neither of these is true."
 					}
 				]
 			},
@@ -245,9 +245,9 @@
 				"name":"wraith",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Kallari believes he is addicted to the Shadow Plane.",
+						"line02":"Is banned from several bars on Omeda. Frequents them anyways.",
+						"line03":"Can be glib, but has never shared classified information. Except that one time."
 					}
 				]
 			},
@@ -255,9 +255,9 @@
 				"name":"shinbi",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Has difficulty hiring event staff due to wolf-related injuries.",
+						"line02":"Remixes and performs ancient songs, but saves her mother's favorite for herself.",
+						"line03":"Receives a simple protection charm on every birthday. Thinks it's from her sister."
 					}
 				]
 			},
@@ -265,9 +265,9 @@
 				"name":"phase",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Not okay with all her powers, but learning to live with them.",
+						"line02":"Had a surprisingly happy childhood.",
+						"line03":"Discovered Shinbi."
 					}
 				]
 			},
@@ -275,9 +275,9 @@
 				"name":"dekker",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Holds the record for most entries in the Exotic Locales Codex.",
+						"line02":"Respected by all, feared by many, and loved by two.",
+						"line03":"Has a secret obsession with low budget holovids."
 					}
 				]
 			},
@@ -285,9 +285,9 @@
 				"name":"revenant",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Always finds what he is looking for, and then kills it.",
+						"line02":"Born on Omeda, possessed on Letha.",
+						"line03":"Carries a bullet engraved with a woman's name."
 					}
 				]
 			},
@@ -295,9 +295,9 @@
 				"name":"murdock",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Hasn't worked with a partner since the \"incident.\"",
+						"line02":"Never mention his wife.",
+						"line03":"Once suspended by Lt. Belica for hiding stun traps in the lavatory."
 					}
 				]
 			},
@@ -305,9 +305,9 @@
 				"name":"riktor",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Inmates learn to listen for the sound of the chains.",
+						"line02":"Enjoys soft music during long torture sessions.",
+						"line03":"Has a true passion for the detention industry."
 					}
 				]
 			},
@@ -315,9 +315,9 @@
 				"name":"muriel",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Long ago requested that her personality module be rewritten, but no longer knows why.",
+						"line02":"Has had many jokes explained to her, and has diligently noted that they were humorous.",
+						"line03":"Can see infrared and ultraviolet, but not full human spectrum."
 					}
 				]
 			},
@@ -325,9 +325,9 @@
 				"name":"steel",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Understands the concept of mercy, just not as it applies to him.",
+						"line02":"First memory is the bay doors opening in low orbit.",
+						"line03":"Though many follow, denies being a leader."
 					}
 				]
 			},
@@ -335,9 +335,9 @@
 				"name":"gideon",
 				"bio":[
 					{
-						"line01":"Lore 01",
-						"line02":"Lore 02",
-						"line03":"Lore 03"
+						"line01":"Believes limits are for the meek.",
+						"line02":"On his sixth birthday, witnessed the death of a star. Fell in love.",
+						"line03":"Dekker suspects \"Gideon\" is not his true name."
 					}
 				]
 			}
