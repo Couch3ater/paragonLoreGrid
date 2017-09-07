@@ -22,7 +22,7 @@
     -webkit-justify-content: center;
     background: url('../img/background.jpg');
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center top;
     box-shadow: inset 0 0 0 1000px rgba(200,200,200,0.85);
     -webkit-box-shadow: inset 0 0 0 1000px rgba(200,200,200,0.85);
