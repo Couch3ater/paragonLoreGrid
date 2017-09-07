@@ -105,7 +105,8 @@
 	text-transform: uppercase;
 	color: rgba(219,189,104,1.0);
 	text-align: center;
-	overflow: scroll;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch
 }
 
 #hero-lore #bio h2{
