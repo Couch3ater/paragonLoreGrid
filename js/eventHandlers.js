@@ -4,6 +4,7 @@ $(document).ready(function(){
 		var heroClicked = $(this).attr('class').split(/\s+/)[1];
 		var cardID = $(this).attr('id');
 		var heroBio = [];
+		$('#bio').html();
 		$('#hero-lore-background').addClass('open');
 		$('#hero-lore').addClass('open');
 		$('#profile-pic').addClass(heroClicked);

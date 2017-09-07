@@ -73,7 +73,7 @@
 	box-shadow: 4px 6px 25px 3px rgba(0,0,0,0.75);
 	border-radius: 5px;
 	overflow: auto;
-	-webkit-overflow-scrolling: touch
+	-webkit-overflow-scrolling: touch;
 }
 
 #hero-lore.open{
@@ -92,7 +92,7 @@
 	max-width: 100%;
 	max-height: auto;
 	margin: 0 auto;
-	background-size: contain;
+	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-box-shadow: 4px 6px 25px 3px rgba(0,0,0,0.75);
