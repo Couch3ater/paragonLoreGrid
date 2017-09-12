@@ -340,6 +340,26 @@
 						"line03":"Dekker suspects \"Gideon\" is not his true name."
 					}
 				]
+			},
+			{
+				"name":"zinx",
+				"bio":[
+					{
+						"line01":"Denies the rumor that she ever had a tail.",
+						"line02":"Believes that precision and process saves lives.",
+						"line03":"Dislikes most people, but feels compelled to help them anyway."
+					}
+				]
+			},
+			{
+				"name":"drongo",
+				"bio":[
+					{
+						"line01":"Owns the largest collection of things on Omeda.",
+						"line02":"Loved by his imaginary friends and respected by his imaginary enemies.",
+						"line03":"Consumes a wide range of proteins."
+					}
+				]
 			}
 		]
 	}
