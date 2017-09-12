@@ -343,3 +343,39 @@
 .gideon{
 	background-image: url('../img/gideon.png') !important;
 }
+
+/* scrollbar webkit */
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #585858;
+  border: 0px none #ffffff;
+  border-radius: 12px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #4a4a4a;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #4a4a4a;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0);
+  border: 13px none #ffffff;
+  border-radius: 12px;
+}
+::-webkit-scrollbar-track:hover {
+  background: #000000;
+}
+::-webkit-scrollbar-track:active {
+  background: #000000;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
